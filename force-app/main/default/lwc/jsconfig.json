@@ -2,7 +2,14 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/lwcDeploymentStatus": [
+                "lwcDeploymentStatus/lwcDeploymentStatus.js"
+            ]
+        }
     },
     "include": [
         "**/*",
