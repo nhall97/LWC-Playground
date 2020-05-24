@@ -1,2 +1,9 @@
-# LwcDeploymentStatus
-Lightning Web Component that shows current / ongoing deployments on a Salesforce environment
+# Salesforce App
+
+## Dev, Build and Test
+
+## Resources
+
+## Description of Files and Directories
+
+## Issues
